@@ -1,6 +1,4 @@
 {
-  "name": "data-engineer-rcmcodes",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {
       "version": "latest"
